@@ -14,9 +14,9 @@
 </p>
 
 
+### That's how it works
 
-
-  https://github.com/user-attachments/assets/1aba7c6b-650b-4c93-8de8-78385123aefe
+  ![ezgif-2-1e14d45d36](https://github.com/user-attachments/assets/dfceb3fa-0f20-4e6c-9df5-c6cbb48e50d1)
 
 
 
