@@ -13,10 +13,12 @@
   </a>
 </p>
 
+<br>
 
 ### That's how it works
-
+<div align="center">
+  
   ![ezgif-2-1e14d45d36](https://github.com/user-attachments/assets/dfceb3fa-0f20-4e6c-9df5-c6cbb48e50d1)
-
+</div>
 
 
