@@ -1,4 +1,4 @@
-## Snakes🐍🎮
+## Snake🐍🎮
 
 > It's a mini game with python 3.12 and pygame Library📚🐍
 >
